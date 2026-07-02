@@ -1,0 +1,19 @@
+---
+title: "Introduction to the UKNEHS"
+---
+
+
+Hearing loss is one of the most common chronic health conditions worldwide and represents a major and growing public health challenge. It is estimated that over 430 million people globally live with disabling hearing loss, with projections suggesting this number will exceed 700 million by 2050 as populations age and exposure to environmental risk factors accumulates (World Health Organization, 2021). Beyond its effects on auditory function, hearing loss is increasingly recognised as a condition with wide-ranging consequences for health and wellbeing, including impacts on communication, social participation, mental health and quality of life (Mick, Kawachi and Lin, 2014; Cosh et al., 2018).
+
+
+In addition to these functional effects, hearing loss has been associated with a range of adverse health outcomes, including cognitive decline, dementia, frailty and increased risk of falls (Lin et al., 2011; Deal et al., 2015; Maharani et al., 2018). These associations have led to growing recognition of hearing loss as a potentially modifiable risk factor for healthy ageing, and a key target for public health intervention (Livingston et al., 2020). Despite this, hearing loss remains under-recognised and undertreated, with substantial delays often occurring between onset of symptoms, diagnosis and intervention.
+
+
+Robust population-level data are essential to understand the burden of hearing loss, identify inequalities in access to care and inform healthcare planning. However, in the United Kingdom, contemporary nationally representative data on hearing health remain limited. The most widely cited estimates of hearing loss prevalence are still derived from the National Study of Hearing conducted several decades ago (Davis, 1995), and are unlikely to reflect current population demographics, patterns of risk exposure or service provision. More recent studies, including large cohort datasets such as UK Biobank, have provided valuable insights but are not designed to provide nationally representative estimates and often rely on limited or indirect measures of hearing function (Dawes et al., 2014).
+Internationally, several large population-based studies have demonstrated the value of comprehensive sensory epidemiology. Studies such as the Beaver Dam cohort, the Blue Mountains Eye Study and the Rotterdam Study have provided important insights into the prevalence, determinants and consequences of sensory impairment in ageing populations (Mitchell et al., 1995; Cruickshanks et al., 1998; Hofman et al., 2015). More recently, national surveys such as the Australian Eye and Ear Health Survey have highlighted the feasibility and value of assessing hearing and vision together within a representative population sample using pure tone audiometry testing and detailed phenotyping (Kha et al., 2024).
+
+
+Despite these advances, comparable contemporary data on hearing health in the UK are lacking. In particular, there is limited evidence describing the distribution and severity of hearing loss based on audiometric assessment within representative populations, the relationship between measured hearing loss and self-reported symptoms, and the extent of unmet need for intervention. These gaps limit the ability to plan services, evaluate policy and target interventions effectively.
+
+
+The present study reports findings from the hearing component of the UKNEHS pilot. Specifically, we aim to (1) describe the prevalence and severity of hearing loss using audiometric assessment, (2) examine the relationship between measured hearing loss and self-reported hearing difficulties, and (3) explore variation in hearing health across community and care-home populations. By providing contemporary data using portable, scalable assessment methods, this study also informs the feasibility of a future national sensory epidemiology programme.

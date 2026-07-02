@@ -1,0 +1,30 @@
+---
+title: "Our findings in relation to hearing impairment"
+---
+
+# Participant characteristics
+A total of 560 participants were recruited to the UKNEHS pilot across three settings: 362 at the research site, 84 assessed in their own homes and 114 in care homes. Of these, 423 participants had complete audiometric data and were included in the primary analysis. Participants with incomplete audiometry (n = 137) were excluded.
+Among participants with valid audiometry, 152 ([48%]) were classified as having hearing loss (better ear pure-tone average ≥25 dB HL), while 167 ([52%]) had normal hearing.
+Participants with hearing loss were older than those with normal hearing, with a median age of 74 years (IQR 67–79) compared with 60 years (IQR 56–67), respectively. The majority of participants with valid audiometry were assessed at the research site (319/423, 75.4%), with smaller proportions assessed at home (24/423, 5.7%) and in care homes (20/423, 4.7%).
+Further details are presented in Table 1.
+
+# Prevalence and severity of hearing loss
+Hearing loss was common among participants with valid audiometry, with [46.3%] demonstrating at least mild impairment.
+The distribution of hearing loss severity is shown in Table 2. Among participants assessed at the research site, 90 (24.9%) had mild hearing impairment, 50 (13.8%) had moderate impairment and 12 (3.3%) had moderately severe impairment.
+There were marked differences in hearing loss by assessment setting. A higher proportion of participants assessed in care homes had hearing loss compared with those assessed in the community. Severity also varied by setting, with more advanced hearing loss observed among care-home residents.
+These differences are illustrated in Figure 1.
+
+# Self-reported hearing difficulty and agreement with audiometric hearing loss
+Self-reported hearing difficulty was substantially lower than the prevalence of audiometrically defined hearing loss. Overall, 152 participants (27.1%) reported hearing difficulties.
+Among participants with audiometrically defined hearing loss, a substantial proportion did not report hearing difficulty, indicating under-recognition of hearing impairment. Conversely, a smaller proportion of participants without measurable hearing loss reported hearing difficulty.
+These findings demonstrate incomplete agreement between audiometric and self-reported measures of hearing. The relationship between measured hearing loss and self-reported hearing difficulty is summarised in Table 3 and illustrated in Figure 2.
+
+
+# Hearing aid use
+Hearing aid use data were available for 415 participants. Among those with audiometrically defined hearing loss, [68/196] ([40%]) reported current hearing aid use, while [128/196] ([60%]) did not.
+Among participants with normal hearing, [6/227] ([2.8%]) reported hearing aid use.
+The distribution of hearing aid use by hearing status is presented in Table 4.
+Hearing aid uptake varied by severity of hearing loss, with higher usage observed among participants with more severe impairment
+
+
+

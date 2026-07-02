@@ -1,21 +1,21 @@
 project:
-  type: website
+  type: book
 
-website:
-  title: "baco_supplementary"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+book:
+  title: "BACO Supplementary Material"
+  author: "Aizaz A. Chaudhry"
+  chapters:
+    - index.qmd
+    - part: "Introduction"
+      chapters:
+        - introduction.qmd
+    - part: "Methods"
+      chapters:
+        - methods.qmd
+    - part: "Results"
+      chapters:
+        - hearingloss.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-
-
+    theme: cosmo
